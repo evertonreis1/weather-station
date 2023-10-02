@@ -124,7 +124,7 @@ const char index_html[] PROGMEM = R"rawliteral(
       <p>
         <i class="fas fa-tint" style="color:#00add6;"></i> 
         <span class="dht-labels">Humidity:</span>
-        <span <span id="humidity">%HUMIDITY%</span><sup class="units">&deg;C</sup></span>
+        <span <span id="humidity">%HUMIDITY%</span><sup class="units">&percnt;</sup></span>
       </p>
     </div>
   </body>
