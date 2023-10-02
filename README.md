@@ -28,5 +28,4 @@ Este projeto consiste na criação de uma estação meteorológica utilizando a 
 
 Este projeto foi desenvolvido como parte da disciplina de Organização e Arquitetura de Computadores, demonstrando a aplicação prática de conceitos de hardware e programação para criar uma solução útil e interativa.
 
-![Imagem da Estação Meteorológica](link_da_imagem.png)
 
