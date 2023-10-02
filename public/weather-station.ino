@@ -117,14 +117,14 @@ const char index_html[] PROGMEM = R"rawliteral(
       <p>
         <i class="fas fa-thermometer-half" style="color:#059e8a;"></i> 
         <span class="dht-labels">Temperature:</span> 
-        <span id="temperature">%TEMPERATURE%<sup class="units">&deg;C</sup></span>
+        <span <span id="temperature">%TEMPERATURE%</span><sup class="units">&deg;C</sup></span>
       </p>
     </div>
     <div class="p-wrapper">
       <p>
         <i class="fas fa-tint" style="color:#00add6;"></i> 
         <span class="dht-labels">Humidity:</span>
-        <span id="humidity">%HUMIDITY%<sup class="units">&percnt;</sup></span>
+        <span <span id="humidity">%HUMIDITY%</span><sup class="units">&deg;C</sup></span>
       </p>
     </div>
   </body>
